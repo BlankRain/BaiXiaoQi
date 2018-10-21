@@ -1,0 +1,6 @@
+欢迎大家关注本次金链盟中国区块链应用大赛，也可以在群内交流技术和参赛问题。
+请群内同学修改群名片：姓名➕职位➕地区1、大赛详情请点击大赛官网：https://con.geekbang.org/
+2、了解FISCO BCOS 平台，请点击：https://github.com/FISCO-BCOS/FISCO-BCOS/wiki
+3、欢迎各位组队参赛，瓜分百万奖金，有组队需求可以填写问卷https://wj.qq.com/s/2687651/8493
+4、提交参赛作品模板资料请联系大赛小助手
+5、提交参赛资料邮箱： service@fisco.com.cn 
